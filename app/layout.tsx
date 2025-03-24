@@ -9,7 +9,7 @@ const monaSans = Mona_Sans({
 });
 
 export const metadata: Metadata = {
-  title: 'PrepWise Interview Platform',
+  title: 'WisePrep Interview Platform',
   description: 'An AI-powered interview preparation platform.',
   keywords: ['interview', 'preparation', 'mock', 'AI'],
   openGraph: {
